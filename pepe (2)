@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+ 
+
+   <head>
+
+       <meta charset="UTF-8">
+
+       <title>Futbol</title>
+
+       <link rel="stylesheet" href="Root\assets\styles\styles_pepe_nieto.css">
+
+   </head>
+
+ 
+
+   <body>
+
+       <section></section>
+
+ 
+
+ 
+ 
+
+       <table>
+
+           <tr>
+
+               <td>
+
+ 
+
+                   <nav>
+
+                       <ul>
+
+                           <li>
+
+                               <a class="resaltado" href="home.html" target="_blank"> Futbol</a>
+
+                           </li>
+
+                           <li>
+
+                               <a href="Tema2.html"> fc barcelona </a>
+
+                           </li>
+
+                           <li>
+
+                               <a href="Tema3.html"> mejores equipos </a>
+
+                           </li>
+
+                           <li>
+
+                               <a href="Tema4.html"> champions league </a>
+
+                           </li>
+
+                       </ul>
+
+                   </nav>
+
+ 
+
+               </td>
+
+ 
+
+           </tr>
+
+       </table>
+
+ 
+
+
+       <header>
+
+           <h1>deporte</h1>
+
+       </header>
+
+       <main>
+
+           <article>
+
+               <header>
+
+                   <hgroup>
+
+                       <h2>leo messi <img src="assets\Images\messigoat.png" alt="messigoat"
+
+                               height="30" width="auto"></h2>
+
+                       <h4>10/11/2021</h4>
+<src> https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/22/16455415392075.jpg <src/> 
+  </h2>
+                   </hgroup>
+
+               </header>
+
+               <div>
+
+                   <H3>¿Quién es leo messi?</H3>
+
+                   <p> Lionel Andrés Messi Cuccittini, conocido como Leo Messi, es un futbolista argentino que juega como delantero o centrocampista en el Paris Saint-Germain de la Ligue 1 de Francia. Es internacional con la selección de Argentina, equipo del que es capitán y máximo goleador histórico.​ Wikipedia
+Nacimiento: 24 de junio de 1987 (edad 34 años), Rosario, Argentina
+Cónyuge: Antonela Roccuzzo (m. 2017)
+Educación: Escuela Primaria N° 66 "Gral. Las Heras"
+Equipos actuales: París Saint-Germain Football Club (#30 / Delantero), Selección de fútbol de Argentina (#10 / Delantero)
+Hijos: Mateo Messi, Ciro Messi Roccuzzo, Thiago Messi
+Premios: Bota de Oro, Jugador Mundial de la FIFA, Trofeo Pichichi, MÁS</p>
+
+                   <figure>
+
+                       <img src="\assets\Images\messigoat.jpg" alt="messigoat" height="300" width="Auto">
+
+ <src>https://cdn2.excelsior.com.mx/media/styles/grande/public/pictures/2022/02/25/2719946.jpg <src/> 
+
+                   </figure>
+
+               </div>
+
+ 
+
+ 
+
+               <footer>
+
+                   <div>
+
+                       <span>pepe nieto</span> <a href="http://miredsocial.com/nombredelautor"
+
+                           target="_blank">jlnietom@colegioalamos.edu.mx</a>
+
+                   </div>
+
+                   <!-- fin datos del autor -->
+
+                   <!-- bibliografía -->
+
+                   <blockquote>
+
+                       <p>Cita correctamente hecha.</p>
+
+                   </blockquote>
+
+ 
+
+               </footer>
+
+           </article>
+
+ 
+
+           <article>
+
+ 
+
+               <header>
+
+                   <hgroup>
+
+                       <h2>fcbarcelona<img src="Root\assets\Images\alert.png" alt="alerta" width="auto" height="30">
+
+                       <src>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFRoLXCsHYOuA6cC7e9RzSj-uUL6-z5RbwA&usqp=CAU <src/>
+                       </h2>
+
+                       <h4>20/2/2022</h4>
+
+                   </hgroup>
+
+               </header>
+
+               <div>
+
+                   <H3>¿que equipo es el fcbarcelona?</H3>
+
+
+                   <p>
+                   En 1899, Joan Gamper, un hombre suizo, decidió introducir el fútbol en Barcelona mediante la creación de un equipo. El club fue fundado oficialmente el veintinueve de noviembre de 1899. Creció y cobró fuerza, ganando títulos como la Copa Macaya en 1902, la Copa de los Pirineos en 1910 - 1912.
+                   </p>
+
+                   <figure>
+
+                       <img src="Root\assets\Images\fcBarcelona" alt="" height="300" width="auto">
+<src> https://www.lavanguardia.com/files/image_449_220/uploads/2021/05/08/6096b6c30622d.jpeg <src(>)
+                   </figure>
+
+               </div>
+
+               <footer>
+
+                   +<div>
+
+                       <span>pepe nieto</span> <a href="http://miredsocial.com/nombredelautor"
+
+                           target="_blank">jlnietom@colegioalamos.edu.mx</a>
+
+                   </div>
+
+                   <!-- fin datos del autor -->
+
+                   <!-- bibliografía -->
+
+                   <blockquote>
+
+                       <p>Cita correctamente hecha.</p>
+
+                   </blockquote>
+
+ 
+
+               </footer>
+
+           </article>
+
+ 
+
+           <article>
+
+               <header>
+
+                   <hgroup>
+
+                       <h2>los mejores equipos del mundo <img src="Root\assets\Images\fcbarcelona.png"
+
+                               alt="Notas" width="auto" height="30"></h2>
+<src> https://img.fcbayern.com/image/upload/t_cms-16x9/f_auto/w_1600,c_fill/q_auto/cms/public/images/fcbayern-com/homepage/saison-19-20/galerien/spiele/barcelona-fcb/26_fcbfcb_200814_get.jpg <src/>
+                       <h4>20/02/2022</h4>
+
+                   </hgroup>
+
+               </header>
+
+               <div>
+
+                   <h3>nejores equipos del mundo <img src="Root\assets\Images\equipos Futbol.png"
+
+                           alt="notas" width="auto" height="30"></h3>
+
+                        <src> https://k-vod.uecdn.es/html5/html5lib/v2.89.0_ue/modules/KalturaSupport/thumbnail.php/p/110/uiconf_id/14969339/entry_id/0_nokrg4j7/height/407? <src/>
+
+                   <ol reversed>
+
+                       <li>fcBarcelona</li>
+
+                       <li>real madrid</li>
+
+                       <li>manchester united</li>
+
+                       <li>psg</li>
+
+                       <li>manchester city</li>
+
+                       <li>liverpool</li>
+
+                       <li>bayern munich</li>
+
+                   </ol>
+
+                   <figure>
+
+                       <img src="Root\assets\Images\champions.png" alt="" height="300" width="auto">
+
+                   </figure>
+
+ 
+
+               </div>
+
+               <footer>
+
+                   <div>
+
+                       <span>pepe nieto</span> <a href="http://miredsocial.com/nombredelautor"
+
+                           target="_blank">jlnietom@colegioalamos.edu.mx</a>
+
+                   </div>
+
+                   <!-- fin datos del autor -->
+
+                   <!-- bibliografía -->
+
+                   <blockquote>
+
+                       <p>Cita correctamente hecha.</p>
+
+                   </blockquote>
+
+ 
+
+               </footer>
+
+           </article>
+
+ 
+
+           <article>
+
+               <header>
+
+                   <H2>uefa champions league<img src="Root\assets\Images\champions league.png" alt="" height="30"
+
+                           width="auto"></H2>
+
+                        <src> https://editorial.uefa.com/resources/0270-13f282ec1616-0c31b83680de-1000/uefa_champions_league_202122_knockout_stage_match_ball_shoot_1_.jpg <src/>
+                   <H4>20/02/2021</H4>
+
+               </header>
+
+               <Div>
+
+                   <h3>champions league<img src="Root\assets\Images\champions league.png" alt="" height="30"
+
+                           width="auto"></h3>
+<src> https://editorial.uefa.com/resources/0270-13f282ec1616-0c31b83680de-1000/uefa_champions_league_202122_knockout_stage_match_ball_shoot_1_.jpg <src/>
+                   <p>Este video explica la uefa champions league</p>
+
+                   <figure>
+
+                       <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8EJRYCRXZaA"
+
+                           title="YouTube video player" frameborder="0"
+
+                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+
+                           allowfullscreen></iframe>
+
+                   </figure>
+
+               </Div>
+
+               <footer>
+
+                   <div>
+
+                       <span>pepe nieto</span> <a href="http://miredsocial.com/nombredelautor"
+
+                           target="_blank">jlnietom@colegioalamos.edu.mx</a>
+
+                   </div>
+
+                   <!-- fin datos del autor -->
+
+                   <!-- bibliografía -->
+
+                   <blockquote>
+
+                       <p>Cita correctamente hecha.</p>
+
+                   </blockquote>
+
+ 
+
+               </footer>
+
+           </article>
+
+       </main>
+
+ 
+
+       <aside>
+
+ 
+
+       </aside>
+
+ 
+
+       <footer>
+
+           <div>
+
+               <span>pepe nieto</span>
+
+           </div>
+
+ 
+
+           <div>
+
+               <span>Blog creado en <i>Colegio Alamos</i>.</span>
+
+               <span>Las opiniones en este proyecto pertenecen a los autores de cada entrada.</span>
+
+           </div>
+
+ 
+
+           <div>
+
+               <span> patricio villicana </span>
+
+ 
+
+           </div>
+
+       </footer>
+
+ <head>
+ <meta charset="UTF-8">
+ <title>mi tema</title
+ <style>
+     h2{
+     color: red;
+ }
+ </style>
+ </head>
+
+
+   <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></body>
+
+ 
+
+</html>
